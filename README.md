@@ -4,17 +4,43 @@ A premium, privacy-first, Zero-Knowledge text obfuscation engine driven by pure 
 
 ## 📸 Interface Showcase
 
-### Home Hub Portal
-![DestroCipher Home Portal Screen](sc1.png)
+### 🏠 Home Hub Portal
 
-### Secure Scrambler (Encryptor View)
-![DestroCipher Encrypt Panel Screen](sc2.png)
+#### Desktop Layout
+![Desktop Home Screen](sc_desktop_home.png)
 
-### Stream Unscrambler (Decryptor View)
-![DestroCipher Decrypt Panel Screen](sc3.png)
+#### Mobile Responsive Layout
+![Mobile Home Screen](sc_mobile_home.jpeg)
 
-### Technical Specifications Matrix (About View)
-![DestroCipher Technical Specifications Screen](sc4.png)
+---
+
+### 🔒 Secure Scrambler (Encryptor View)
+
+#### Desktop Layout
+![Desktop Encrypt Panel](sc_desktop_encrypt.png)
+
+#### Mobile Responsive Layout
+![Mobile Encrypt Panel](sc_mobile_encrypt.jpeg)
+
+---
+
+### 🔓 Stream Unscrambler (Decryptor View)
+
+#### Desktop Layout
+![Desktop Decrypt Panel](sc_desktop_decrypt.png)
+
+#### Mobile Responsive Layout
+![Mobile Decrypt Panel](sc_mobile_decrypt.jpeg)
+
+---
+
+### 📖 Technical Specifications Matrix (About View)
+
+#### Desktop Layout
+![Desktop About Specifications](sc_desktop_about.png)
+
+#### Mobile Responsive Layout
+![Mobile About Specifications](sc_mobile_about.jpeg)
 
 ## 🛡️ The Zero-Knowledge Privacy Model
 Traditional text encoders rely on central databases or server-side transmission cycles to function. **DestroCipher** operates under a strict, absolute client-side architecture:
@@ -36,31 +62,35 @@ To maximize security against standard dictionary attacks and pattern-based frequ
 ```text
 my-encryption-site/
 │
-├── index.html       # Universal landing portal page
-├── index.css        # Portal grid card style layers
-├── index.js         # Navigation hub link controller
+├── index.html               # Universal landing portal page
+├── index.css                # Portal grid card style layers
+├── index.js                 # Navigation hub link controller
 │
-├── encrypt.html     # Secure text scrambler interface
-├── encrypt.css      # Dual-pane form layout alignments
-├── encrypt.js       # Script routing encrypt actions to engine
+├── encrypt.html             # Secure text scrambler interface
+├── encrypt.css              # Dual-pane form layout alignments
+├── encrypt.js               # Script routing encrypt actions to engine
 │
-├── decrypt.html     # Stream unscrambler interface
-├── decrypt.css      # Electric-blue accented tool layouts
-├── decrypt.js       # Script routing decrypt actions to engine
+├── decrypt.html             # Stream unscrambler interface
+├── decrypt.css              # Electric-blue accented tool layouts
+├── decrypt.js               # Script routing decrypt actions to engine
 │
-├── about.html       # Technical specifications manifesto page
-├── about.css        # Paragraph typography readability rules
-├── about.js         # Isolated view mount observer
+├── about.html               # Technical specifications manifesto page
+├── about.css                # Paragraph typography readability rules
+├── about.js                 # Isolated view mount observer
 │
-├── all.css          # Global master stylesheet (Theme, Nav Menu, Page Fade Keyframes)
-├── engine.js        # Core crypto cipher looping & intersection scroll reveals script
+├── all.css                  # Global master stylesheet (Theme, Nav Menu, Page Fade Keyframes)
+├── engine.js                # Core crypto cipher looping & intersection scroll reveals script
 │
-├── sc1.png          # Screenshot: Main Page
-├── sc2.png          # Screenshot: Encrypt Page
-├── sc3.png          # Screenshot: Decrypt Page
-├── sc4.png          # Screenshot: About Page
-├── LICENSE          # Legal open-source distribution rules
-└── README.md        # Technical project documentation
+├── sc_desktop_about.png     # Screenshot: Desktop About Page
+├── sc_desktop_decrypt.png   # Screenshot: Desktop Decrypt Page
+├── sc_desktop_encrypt.png   # Screenshot: Desktop Encrypt Page
+├── sc_desktop_home.png      # Screenshot: Desktop Main Page
+├── sc_mobile_about.jpeg     # Screenshot: Mobile About Page
+├── sc_mobile_decrypt.jpeg   # Screenshot: Mobile Decrypt Page
+├── sc_mobile_encrypt.jpeg   # Screenshot: Mobile Encrypt Page
+├── sc_mobile_home.jpeg      # Screenshot: Mobile Main Page
+├── LICENSE                  # Legal open-source distribution rules
+└── README.md                # Technical project documentation
 ```
 
 ## 🚨 Critical Safety Condition Reminder
