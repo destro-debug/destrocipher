@@ -5,42 +5,36 @@ A premium, privacy-first, Zero-Knowledge text obfuscation engine driven by pure 
 ## 📸 Interface Showcase
 
 ### 🏠 Home Hub Portal
-
-#### Desktop Layout
-![Desktop Home Screen](sc_desktop_home.png)
-
-#### Mobile Responsive Layout
-![Mobile Home Screen](sc_mobile_home.jpeg)
-
----
+<table>
+  <tr>
+    <td width="65%" valign="top"><strong>Desktop View</strong><br><img src="sc_desktop_home.png" alt="Desktop Home Screen"></td>
+    <td width="35%" valign="top"><strong>Mobile Responsive View</strong><br><img src="sc_mobile_home.jpeg" alt="Mobile Home Screen"></td>
+  </tr>
+</table>
 
 ### 🔒 Secure Scrambler (Encryptor View)
-
-#### Desktop Layout
-![Desktop Encrypt Panel](sc_desktop_encrypt.png)
-
-#### Mobile Responsive Layout
-![Mobile Encrypt Panel](sc_mobile_encrypt.jpeg)
-
----
+<table>
+  <tr>
+    <td width="65%" valign="top"><strong>Desktop View</strong><br><img src="sc_desktop_encrypt.png" alt="Desktop Encrypt Panel"></td>
+    <td width="35%" valign="top"><strong>Mobile Responsive View</strong><br><img src="sc_mobile_encrypt.jpeg" alt="Mobile Encrypt Panel"></td>
+  </tr>
+</table>
 
 ### 🔓 Stream Unscrambler (Decryptor View)
-
-#### Desktop Layout
-![Desktop Decrypt Panel](sc_desktop_decrypt.png)
-
-#### Mobile Responsive Layout
-![Mobile Decrypt Panel](sc_mobile_decrypt.jpeg)
-
----
+<table>
+  <tr>
+    <td width="65%" valign="top"><strong>Desktop View</strong><br><img src="sc_desktop_decrypt.png" alt="Desktop Decrypt Panel"></td>
+    <td width="35%" valign="top"><strong>Mobile Responsive View</strong><br><img src="sc_mobile_decrypt.jpeg" alt="Mobile Decrypt Panel"></td>
+  </tr>
+</table>
 
 ### 📖 Technical Specifications Matrix (About View)
-
-#### Desktop Layout
-![Desktop About Specifications](sc_desktop_about.png)
-
-#### Mobile Responsive Layout
-![Mobile About Specifications](sc_mobile_about.jpeg)
+<table>
+  <tr>
+    <td width="65%" valign="top"><strong>Desktop View</strong><br><img src="sc_desktop_about.png" alt="Desktop About Specifications"></td>
+    <td width="35%" valign="top"><strong>Mobile Responsive View</strong><br><img src="sc_mobile_about.jpeg" alt="Mobile About Specifications"></td>
+  </tr>
+</table>
 
 ## 🛡️ The Zero-Knowledge Privacy Model
 Traditional text encoders rely on central databases or server-side transmission cycles to function. **DestroCipher** operates under a strict, absolute client-side architecture:
